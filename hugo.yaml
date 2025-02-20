@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 baseURL: "https://sukurali.github.io/sukur/"
+=======
+baseURL: "https://sukurali.github.io/sukur"
+>>>>>>> fa4a4c1816fe90019a2fd24a42a2994e92162f96
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile

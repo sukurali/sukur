@@ -1,1 +1,1 @@
-# sukurali.github.io
+# sukurali.github.io/sukur
