@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Examplepost on Hugo Profile</title>
-    <link>https://sukurali.github.io/blogs/examplepost/</link>
+    <link>https://sukurali.github.io/sukur/blogs/examplepost/</link>
     <description>Recent content in Examplepost on Hugo Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://sukurali.github.io/blogs/examplepost/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sukurali.github.io/sukur/blogs/examplepost/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
