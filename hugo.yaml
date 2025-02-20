@@ -2,7 +2,6 @@ baseURL: "https://sukurali.github.io/sukur/"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
-publishDir: "docs"
 outputs:
   home:
     - "HTML"
